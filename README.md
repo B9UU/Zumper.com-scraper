@@ -39,7 +39,7 @@ Since Zumper.com doesn’t provide an API, this API will help you to retrieve da
 
 ## RapidApi
 
-https://rapidapi.com/brahimboussaa1998/api/zumper-com-scraper/
+https://rapidapi.com/baqo271/api/zumper-com-scraper
 
 
 ## Authors
